@@ -1,7 +1,7 @@
 # 🚀 Prompt-to-Project Challenge: Secure Authentication System 🔐
 
 ## **📅 Event Details:**
-- **Duration:** 1.5 Hours
+- **Duration:** 1 Hours
 - **Objective:** Build a **secure authentication system** with multiple security layers.
 - **Mandatory Step:** Step 1 must be implemented.
 - **Bonus Points:** Creativity & UI/UX will be evaluated.
